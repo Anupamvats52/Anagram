@@ -16,3 +16,5 @@ public static boolean isanagram(String s,String t){
         return Arrays.equals(sChars, tChars);
 }
 }
+
+// changing the git file
